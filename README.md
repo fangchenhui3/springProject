@@ -1,2 +1,2 @@
 # springProject
-a spring system for myseif
+a spring system for myself
